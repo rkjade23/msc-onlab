@@ -1,0 +1,4 @@
+cmd ablakban: proxy indítás: proxy
+másik cmd ablakban: parancsok a proxynak
+vs code: virtuális env. indítás, csomagok hozzáadása
+	fájl futtatása, response in terminal
